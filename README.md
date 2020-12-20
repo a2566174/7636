@@ -1,7 +1,7 @@
 # FRC7636_Website
 
 
-正式發布地點：https://frc7636robomania.github.io/FRC7636_1/
+正式發布地點：https://a2566174.github.io/7636/
 
 
 ## Project setup
